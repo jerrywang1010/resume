@@ -3,15 +3,7 @@
 - company: Intel
   position: Software Engineer
   duration: June, 2022 &mdash; Present
-  summary:  I am a software engineer at Intel working on the Quartus Compiler, my daily tasks include developping new features in the Router, debugging failing tests, writing scripts to automate development and etc.	
-      <ul class="resume-item-list"><li>Worked on the "Quartus Prime" FPGA CAD software's backend algorithm and data structure with modern C++.</li>
-  <li>Mentoring new hires, providing guidance and feedback to help them develop new skills and shortening the onboarding time.</li>
-  <li>Lead a project that achieved and maintain 100% pass rate on the newest Intel FPGA family.</li>
-  <li>Receiver of Intel's Quartly Bonus+ reward for unique contribution in debugging non-determinism issues across different teams.</li>
-  <li>Made improvements to the “Router” stage of the Quartus Compiler by achieving better runtime (-50%), higher clock frequency and less memory usage (-2GB).</li>
-  <li>Designed a new graph that efficiently modelled the routing resources on an FPGA fabric and implemented the API for communicating with the rest of the subsystems.</li>
-  <li>Triaged/resolved multiple customer-facing bugs in a large code base.</li>
-  </ul>
+  summary:  I am a software engineer at Intel working on the Quartus Compiler, my daily tasks include developping new features in the Router, debugging failing tests, writing scripts to automate development and etc.	    <ul class="resume-item-list"><li>Worked on the "Quartus Prime" FPGA CAD software's backend algorithm and data structure with modern C++.</li><li>Mentoring new hires, providing guidance and feedback to help them develop new skills and shortening the onboarding time.</li><li>Lead a project that achieved and maintain 100% pass rate on the newest Intel FPGA family.</li><li>Receiver of Intel's Quartly Bonus+ reward for unique contribution in debugging non-determinism issues across different teams.</li><li>Made improvements to the “Router” stage of the Quartus Compiler by achieving better runtime (-50%), higher clock frequency and less memory usage (-2GB).</li><li>Designed a new graph that efficiently modelled the routing resources on an FPGA fabric and implemented the API for communicating with the rest of the subsystems.</li><li>Triaged/resolved multiple customer-facing bugs in a large code base.</li></ul>
 
 # Director of Digital Stratgy
 - company: United Nations Human Rights Council
