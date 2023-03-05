@@ -1,13 +1,23 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Engineering, Computer Engineering
+  uni: University of Toronto
+  year: 2017 &mdash; 2022
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Graduated with high honors
+    - award: GPA 3.86
+    - award: Dean's Honuor List for all semesters
+  # summary: 
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Master of Engineering
+  uni: University of Toronto
+  year: 2022
+  # award: 
+  summary: On going...
+
+  - degree: Certificate
+    uni: Stanford University
+    year: 2018 &mdash; 2018
+    awards:
+      - award: Stanford Silicon Valley Innovation Academy certificate
+    summary: Attended Stanford's Summer Session in 2018, high achiever in computer science class.
+
