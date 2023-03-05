@@ -1,10 +1,25 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Intel Performance Bonus+ program
+  organization: Intel
+  year: 2022
+  summary: Awarded to employees that made a strong or unique contribution.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Centennial Senior Project Award
+  organization: University of Toronto
+  year: 2022
+  summary: Awards for the senior year capstone project
+
+- award: ECE Capstone Distinction Award
+  organization: University of Toronto
+  year: 2022
+  summary: Awards for the senior year capstone project
+
+- award: UTEA Scholarship
+  organization: University of Toronto
+  year: 2019
+  summary: 6000 CAD research scholorship for 2019 summer
+
+- award: Entrance Scholarship
+  organization: University of Toronto
+  year: 2017
+  summary: 5000 CAD scholorship for first year undergraduate student

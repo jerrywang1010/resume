@@ -1,16 +1,27 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
+# ECE496
 - project: Texas Hold'em Solver
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  duration: 2021 &mdash; 2023
+  url: "https://www.jolieni.com/""https://www.ece.utoronto.ca/news/resourceful-spirit-energizes-the-2022-ece-capstone-design-fair/"
+  description: Used a reinforcement learning algorithm called "Counterfactual Regret Minimization" to develop a Texas Hold'em Bot that can achieve close to 90% win rate against our benchmark.<ul class="resume-item-list"><li>Implemented various memory reduction and runtime improvement methods such as information encoding, game abstractions and lock-free multithreading to cut down memory usage by 40% and reduce runtime by 4x.</li><li>Built a full-stack web application using Java Springboot, HTML, Javascript and Mongo DB, hosted on AWS Amplify & Elastic beanstalk and set up CI/CD pipeline.</li><li>Designed and implemented REST API to facilitate communication between frontend and backend.</li><li>Selected for the Centennial Senior Project Award and ECE Capstone Distinction Award.</li>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# distributed system
+- project: MIT 6.824 Distributed System
+  role: Developer
+  duration: 2023 &mdash; Present
+  url: "https://github.com/jerrywang1010/distributed_system"
+  description: Implemented distributed systems using the Go programming language covering topics such as consensus, fault tolerance and distributed file systems.<ul class="resume-item-list"><li>Implemented a distributed map reduce system containing a fault-tolerant master and multiple worker nodes. Designed and implemented code to assign map and reduce tasks to worker nodes and synchronize multiple goroutines running concurrently. Developed solutions to ensure fault tolerance in the event of worker node failures, including the detection of failed nodes and the redistribution of tasks to other nodes.</li><li>Designed and implemented a key-value store with a primary-backup replication strategy and provided consistency and availability using the Raft consensus algorithm in case of a node failure.</li>
+
+- project: OS161
+  role: Developer
+  duration: 2022 &mdash; 2022
+  description: Built a simple operating system in C that runs on a MIPS architecture.<ul class="resume-item-list"><li>Implemented various OS components including Processes/Threads management and scheduling, virtual memory and page replacement algorithms.</li>
+
+- project: Real-Time Stock Price Webapp
+  role: Developer
+  duration: 2021 &mdash; 2021
+  url: "https://github.com/jerrywang1010/stock_django"
+  description: Built a web application using Django and Python that answers user queries about stock prices.<ul class="resume-item-list"><li>visualize stock trends using matplotlib</li><li>Retrieved and display stock data from financial data providers using REST programming and sent automated emails.</li>
