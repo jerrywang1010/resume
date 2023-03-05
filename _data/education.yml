@@ -14,10 +14,10 @@
   # award: 
   summary: On going...
 
-  - degree: Certificate
-    uni: Stanford University
-    year: 2018 &mdash; 2018
-    awards:
-      - award: Stanford Silicon Valley Innovation Academy certificate
-    summary: Attended Stanford's Summer Session in 2018, high achiever in computer science class.
+- degree: Certificate
+  uni: Stanford University
+  year: 2018 &mdash; 2018
+  awards:
+    - award: Stanford Silicon Valley Innovation Academy certificate
+  summary: Attended Stanford's Summer Session in 2018, high achiever in computer science class.
 
