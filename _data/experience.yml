@@ -1,19 +1,12 @@
 # Jobs
-# VP of Global Communications
+# Intel
 - company: Intel
   position: Software Engineer
   duration: June, 2022 &mdash; Present
-  summary:  I am a software engineer at Intel working on the Quartus Compiler, my daily tasks include developping new features in the Router, debugging failing tests, writing scripts to automate development and etc.	    <ul class="resume-item-list"><li>Worked on the "Quartus Prime" FPGA CAD software's backend algorithm and data structure with modern C++.</li><li>Mentoring new hires, providing guidance and feedback to help them develop new skills and shortening the onboarding time.</li><li>Lead a project that achieved and maintain 100% pass rate on the newest Intel FPGA family.</li><li>Receiver of Intel's Quartly Bonus+ reward for unique contribution in debugging non-determinism issues across different teams.</li><li>Made improvements to the “Router” stage of the Quartus Compiler by achieving better runtime (-50%), higher clock frequency and less memory usage (-2GB).</li><li>Designed a new graph that efficiently modelled the routing resources on an FPGA fabric and implemented the API for communicating with the rest of the subsystems.</li><li>Triaged/resolved multiple customer-facing bugs in a large code base.</li></ul>
+  summary:  I am a software engineer at Intel working on the Quartus Compiler, my daily tasks include developping and debugging a A star path finding algorithm, debugging failing regression tests, writing scripts to automate development and etc.	    <ul class="resume-item-list"><li>Worked on the "Quartus Prime" CAD software's backend algorithm and data structure with modern C++.</li><li>Mentoring new hires, providing guidance and feedback to help them develop new skills and shortening the onboarding time.</li><li>Lead a project that achieved and maintain 100% pass rate on the newest Intel FPGA family.</li><li>Receiver of Intel's Quartly Bonus+ reward for unique contribution in debugging non-determinism issues across different teams.</li><li>Made various improvements to the “Router” stage of the Quartus Compiler by achieving better runtime (-50%), higher clock frequency and less memory usage (-2GB).</li><li>Designed a new graph that efficiently modelled the routing resources on an FPGA fabric and implemented the API for communicating with the rest of the subsystems.</li><li>Triaged/resolved multiple customer-facing bugs in a large code base.</li><li>Made significant contributions to a new project focused on modularizing and replacing an old subsystem. Developed and implemented key modules, resulting in a more streamlined and efficient system architecture. Collaborated with team members to identify and address challenges, ensuring successful project completion within the expected timeline. Presented results to managers of different teams and received recognition from senior leadership for efforts in driving the project's success.</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# PEY
+- company: Intel
+  position: Software engineer intern
+  duration: May, 2020 &mdash; August, 2021
+  summary: I was working in the Quartus Route group as a software engineer intern for 16 months, my tasks includes doing runtime and memory optimization to improve our bench mark results, fixing bugs throughout different subsystems and devloping scripts to automate data analysis.    <ul class="resume-item-list"><li>Implemented and improved automation scripts in python and perl for data analysis and visulization, resulting in significant improvements in efficiency for both myself and colleagues, reducing analysis time by up to 50%.<\li><li>Worked on core components of the Quartus compiler, and implemented a new path finding algorithm that helped to reduce 40% operations in Quartus Router.</li>
