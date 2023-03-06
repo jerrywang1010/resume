@@ -25,3 +25,11 @@
   duration: 2021 &mdash; 2021
   url: "https://github.com/jerrywang1010/stock_django"
   description: Built a web application using Django and Python that answers user queries about stock prices.<ul class="resume-item-list"><li>visualize stock trends using matplotlib</li><li>Retrieved and display stock data from financial data providers using REST programming and sent automated emails.</li></ul>
+
+- project: Two-Factor Authentication
+  role: Developer
+  duration: 2023 &mdash; 2023
+  description: Developped a program that can generate and verify Time-based one-time password for Multi-Factor Authentication purpose.
+  <ul class="resume-item-list"><li>Encoded a user provided secret key and communicated it securely to a mobile anthenticator app on a phone via QR code.</li>
+  <li>Generated a time based 6 digits password following the RFC specification that changes every 30 seconds and use that to velidate a user log in attempt.</li>
+  <li>Used REST API call to communicate with a cloud server for initializing a user account and verify user logins with Multi-Factor Authentication.</li></ul>
