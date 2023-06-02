@@ -20,7 +20,7 @@
   role: Developer
   duration: 2023 May &mdash; 2023 June
   url: "https://github.com/jerrywang1010/Hadoop_MapReduce/tree/main"
-  description: Developed a scalable, distributed application for performing K-Means clustering using Java, Hadoop, and HDFS.<ul class="resume-item-list"><li>Allows the user to specify the number of centroid</li><li>Implemented Map and Reduce function to efficiently process large datasets.</li>
+  description: Developed a scalable, distributed application for performing K-Means clustering using Java, Hadoop, and HDFS.<ul class="resume-item-list"><li>Allows the user to specify the number of centroid.</li><li>Implemented Map and Reduce function to efficiently process large datasets.</li>
 
 - project: Operating System
   role: Developer
@@ -31,7 +31,7 @@
   role: Developer
   duration: 2021 Jan &mdash; 2021 April
   url: "https://github.com/jerrywang1010/stock_django"
-  description: Built a web application using Django and Python that answers user queries about stock prices.<ul class="resume-item-list"><li>visualize stock trends using matplotlib</li><li>Retrieved and display stock data from financial data providers using REST programming and sent automated emails.</li></ul>
+  description: Built a web application using Django and Python that answers user queries about stock prices.<ul class="resume-item-list"><li>visualize stock trends using matplotlib.</li><li>Retrieved and display stock data from financial data providers using REST programming and sent automated emails.</li></ul>
 
 - project: Two-Factor Authentication
   role: Developer
