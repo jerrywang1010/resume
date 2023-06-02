@@ -9,24 +9,31 @@
   description: Used a reinforcement learning algorithm called "Counterfactual Regret Minimization" to develop a Texas Hold'em Bot that can achieve close to 90% win rate against our benchmark.<ul class="resume-item-list"><li>Implemented various memory reduction and runtime improvement methods such as information encoding, game abstractions and lock-free multithreading to cut down memory usage by 40% and reduce runtime by 4x.</li><li>Built a full-stack web application using Java Springboot, HTML, Javascript and Mongo DB, hosted on AWS Amplify & Elastic beanstalk and set up CI/CD pipeline.</li><li>Designed and implemented REST API to facilitate communication between frontend and backend.</li><li>Selected for the Centennial Senior Project Award and ECE Capstone Distinction Award.</li><li>Featured by the University of Toronto <a href="https://www.ece.utoronto.ca/news/resourceful-spirit-energizes-the-2022-ece-capstone-design-fair/">news</a>.</li></ul>
 
 # distributed system
-- project: Distributed Key-Value store
+- project: Distributed Key-Value Store
   role: Developer
-  duration: 2023 &mdash; Present
+  duration: 2022 Nov &mdash; Present
   url: "https://github.com/jerrywang1010/distributed_system"
   description: Implemented distributed systems using the Go programming language covering topics such as consensus, fault tolerance and fault recovery.<ul class="resume-item-list"><li>Implemented a distributed map reduce system containing a fault-tolerant master and multiple worker nodes.</li><li>Designed and implemented code to assign map and reduce tasks to worker nodes and synchronize multiple goroutines running concurrently.</li><li>Developed solutions to ensure fault tolerance in the event of worker node failures, including the detection of failed nodes and the redistribution of tasks to other nodes.</li><li>Build a scalable and fault-tolerant distributed key-value store using Go.</li><li>Utilized Raft consensus algorithm to achieve data consistency and availability across nodes in a cluster.</li><li>Incorporated automatic failover mechanisms to ensure data consistency and automatic recovery in case of a node failure.</li></ul>
 
+# MIE 1628 A1
+- project: Distributed Kmean On Hadoop
+  role: Developer
+  duration: 2023 May &mdash; 2023 June
+  url: "https://github.com/jerrywang1010/Hadoop_MapReduce/tree/main"
+  description: Developed a scalable, distributed application for performing K-Means clustering using Java, Hadoop, and HDFS.<ul class="resume-item-list"><li>Allows the user to specify the number of centroid</li><li>Implemented Map and Reduce function to efficiently process large datasets.</li>
+
 - project: Operating System
   role: Developer
-  duration: 2022 &mdash; 2022
+  duration: 2022 Jan &mdash; 2022 April
   description: Built a simple operating system in C that runs on a MIPS architecture.<ul class="resume-item-list"><li>Implemented various OS components including Processes/Threads management and scheduling, virtual memory and page replacement algorithms.</li></ul>
 
 - project: Real-Time Stock Price Webapp
   role: Developer
-  duration: 2021 &mdash; 2021
+  duration: 2021 Jan &mdash; 2021 April
   url: "https://github.com/jerrywang1010/stock_django"
   description: Built a web application using Django and Python that answers user queries about stock prices.<ul class="resume-item-list"><li>visualize stock trends using matplotlib</li><li>Retrieved and display stock data from financial data providers using REST programming and sent automated emails.</li></ul>
 
 - project: Two-Factor Authentication
   role: Developer
-  duration: 2023 &mdash; 2023
+  duration: 2023 March &mdash; 2023 April
   description: Developped a program that can generate and verify Time-based one-time password for Multi-Factor Authentication purpose.<ul class="resume-item-list"><li>Encoded a user provided secret key and communicated it securely to a mobile anthenticator app on a phone via QR code.</li><li>Generated a time based 6 digits password following the RFC specification that changes every 30 seconds and use that to validate a user log in attempt.</li><li>Used REST API call to communicate with a cloud server for initializing a user account and verify user logins with Multi-Factor Authentication.</li></ul>
