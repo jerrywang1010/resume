@@ -27,10 +27,7 @@
   role: Developer
   duration: 2023 May &mdash; 2023 June
   url: "https://github.com/jerrywang1010/movie_recommendation_with_Spark/tree/main"
-  description: Developed a movie recommendation system utilizing Apache Spark and the Alternating Least Squares (ALS) algorithm, following a collaborative filtering approach.
-  <ul class="resume-item-list"><li>Leveraged a voluminous dataset consisting of user ratings and movie information to devise a movie recommendation engine.</li>
-  <li>Applied collaborative filtering using Apache Spark and the ALS algorithm to predict user preferences for unseen movies.</li>
-  <li>Optimized the ALS model by conducting meticulous hyperparameter tuning - specifically rank, max iterations, and regularization parameters - ultimately improving the accuracy of the model, as measured by the Root Mean Square Error (RMSE).</li>
+  description: Developed a movie recommendation system utilizing Apache Spark and the Alternating Least Squares (ALS) algorithm, following a collaborative filtering approach.<ul class="resume-item-list"><li>Leveraged a voluminous dataset consisting of user ratings and movie information to devise a movie recommendation engine.</li><li>Applied collaborative filtering using Apache Spark and the ALS algorithm to predict user preferences for unseen movies.</li><li>Optimized the ALS model by conducting meticulous hyperparameter tuning - specifically rank, max iterations, and regularization parameters - ultimately improving the accuracy of the model, as measured by the Root Mean Square Error (RMSE).</li>
 
 
 - project: Operating System
